@@ -24,3 +24,5 @@ CRON_TZ=UTC
 0 9 * * * simone nice -n 19 Desktop/filename.sh
 ```
 Runs at 9:00 AM UTC the script. 
+
+Obviously, it needs to be saved locally. 
